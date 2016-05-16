@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tigerwon]]></title>
         <description><![CDATA[Tigerwon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tigerwon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 03:14:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 03:35:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tigerwon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TIGERWON]]></title>
-            <description><![CDATA[<article><h1>TIGERWON</h1><p>Jeongwoon Eun(also known as Tigerwon™)is a passionately creative interviewer and vlogger who currently resides in New York City. She is the founder of “Tigerwon™ Inc.,” which utilizes various live streams to share exclusive content. Additionally, Tigerwon™ Inc. is a promotion and marketing service revolving around branding services, consulting, development, management, and marketing of brands for businesses and individuals. It’s also an entertainment service that features photographic, audio, video, and prose presentations on various topics such as food, fashion, travel, technology, and writing. Furthermore, Tigerwon™ is the Creator of Facebook group “IrEnVivo™,” a learning and connecting community for fellow live streamers.  Prior to Tigerwon’s current positions, she was the producer and director for the documentary, "Still Standing" based on Hurricane Katrina Survivors. And in 2007, she won the Jury Award at the “Media That Matters Film Festival.” </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5f27811-37a0-4468-af02-cdd831f03837.jpg"></article>]]></description>
-            <link>undefinedtigerwon/index.html</link>
+            <description><![CDATA[<article><h1>TIGERWON</h1><p>Jeongwoon Eun(also known as Tigerwon™)is a passionately creative interviewer and vlogger who currently resides in New York City. She is the founder of “Tigerwon™ Inc.,” which utilizes various live streams to share exclusive content. Additionally, Tigerwon™ Inc. is a promotion and marketing service revolving around branding services, consulting, development, management, and marketing of brands for businesses and individuals. It’s also an entertainment service that features photographic, audio, video, and prose presentations on various topics such as food, fashion, travel, technology, and writing. Furthermore, Tigerwon™ is the Creator of Facebook group “IrEnVivo™,” a learning and connecting community for fellow live streamers.Prior to Tigerwon’s current positions, she was the producer and director for the documentary, "Still Standing" based on Hurricane Katrina Survivors. And in 2007, she won the Jury Award at the “Media That Matters Film Festival.” </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5f27811-37a0-4468-af02-cdd831f03837.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tigerwon/tigerwon/index.html</link>
             <guid isPermaLink="false">3d66f08d-249c-416f-afa5-201697e5f701</guid>
-            <pubDate>Mon, 16 May 2016 03:14:36 GMT</pubDate>
+            <pubDate>Mon, 16 May 2016 03:33:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
