@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Join me on Periscope @TigerwonNYC
-datePublished: '2016-08-06T03:48:57.778Z'
-dateModified: '2016-08-06T03:46:53.665Z'
+datePublished: '2016-08-19T01:15:48.075Z'
+dateModified: '2016-08-06T03:49:31.997Z'
 title: ''
 author: []
 via: {}
