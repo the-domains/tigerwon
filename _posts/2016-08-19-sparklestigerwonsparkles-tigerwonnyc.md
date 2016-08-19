@@ -34,8 +34,8 @@ app_links:
     id: tv.periscope.android
 isBasedOnUrl: 'https://www.periscope.tv/TigerwonNYC/1MYxNzAqjmvxw?'
 title: "✨\uD83C\uDF1FTigerwon\uD83C\uDF1F✨ @TigerwonNYC"
-datePublished: '2016-08-19T01:30:19.461Z'
-dateModified: '2016-08-19T01:27:05.036Z'
+datePublished: '2016-08-19T01:30:21.493Z'
+dateModified: '2016-08-19T01:27:10.479Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-19-sparklestigerwonsparkles-tigerwonnyc.md
