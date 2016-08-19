@@ -7,35 +7,35 @@ publisher:
   favicon: 'https://assets.periscope.tv/images/favicon.ico'
   domain: www.periscope.tv
 keywords: []
-description: "✨\uD83C\uDF1FTigerwon\uD83C\uDF1F✨ (@TigerwonNYC) from Hawthorne, CA, United States. Host/ Interviewer \uD83C\uDFA5 - Attend events + covering stories in NYC \uD83D\uDDFD and ✈️ for food\uD83C\uDF5D,fashion \uD83D\uDC57, travel \uD83D\uDE80 author, startups, IrEnVivo, www.tigerwon.com"
+description: "✨\uD83C\uDF1FTigerwon\uD83C\uDF1F✨ (@TigerwonNYC) from Queens, NY, United States. Host/ Interviewer \uD83C\uDFA5 - Attend events + covering stories in NYC \uD83D\uDDFD and ✈️ for food\uD83C\uDF5D,fashion \uD83D\uDC57, travel \uD83D\uDE80 author, startups, IrEnVivo, www.tigerwon.com"
 app_links:
-  - url: 'https://www.periscope.tv/w/1MnxnyOeLDoJO'
+  - url: 'https://www.periscope.tv/w/1dRKZqyzOdXxB'
     type: ios
     namespace: ai
     app_name: Periscope
     app_store_id: '972909677'
-  - url: 'pscp://broadcast/1MnxnyOeLDoJO'
+  - url: 'pscp://broadcast/1dRKZqyzOdXxB'
     type: android
     namespace: ai
     app_name: Periscope
     package: tv.periscope.android
-  - url: 'https://www.periscope.tv/w/1MnxnyOeLDoJO'
+  - url: 'https://www.periscope.tv/w/1dRKZqyzOdXxB'
     type: android
     namespace: ai
-  - url: 'pscp://broadcast/1MnxnyOeLDoJO'
+  - url: 'pscp://broadcast/1dRKZqyzOdXxB'
     namespace: twitter
     type: iphone
     name: Periscope
     id: '972909677'
-  - url: 'https://www.periscope.tv/w/1MnxnyOeLDoJO'
+  - url: 'https://www.periscope.tv/w/1dRKZqyzOdXxB'
     namespace: twitter
     type: googleplay
     name: Periscope
     id: tv.periscope.android
-isBasedOnUrl: 'https://www.periscope.tv/TigerwonNYC/1MnxnyOeLDoJO?'
+isBasedOnUrl: 'https://www.periscope.tv/TigerwonNYC/1dRKZqyzOdXxB?'
 title: "✨\uD83C\uDF1FTigerwon\uD83C\uDF1F✨ @TigerwonNYC"
-datePublished: '2016-08-19T01:14:51.348Z'
-dateModified: '2016-08-19T01:13:49.965Z'
+datePublished: '2016-08-19T01:18:19.095Z'
+dateModified: '2016-08-19T01:12:17.509Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-19-sparklestigerwonsparkles-tigerwonnyc.md
@@ -46,4 +46,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>✨Tigerwon✨ @TigerwonNYC</h1><p>✨Tigerwon✨ (@TigerwonNYC) from Hawthorne, CA, United States. Host/ Interviewer  - Attend events + covering stories in NYC  and ✈️ for food,fashion , travel  author, startups, IrEnVivo, www.tigerwon.com</p><img src="https://tn.periscope.tv/4XrlNMHPyzyShIgeW3oG7x1FgTn7LLjLYCufQQLoVZZfsurUHeiQyUmMaifF35AjwgtRlZsnlfq9w5R2H05zBA==/chunk_62.jpg?Expires=1784509493&amp;Signature=N~tcHC7d7Gv0dTpB2Xc7QVs5lpxMq7nMpwLFIgelsisOY2GT005eaOQqj-j65zgab1hKCwASXbOS-u01FaP5S0SJIT3LCcJvv5DblCWbW1-fkK7YCLYtI0sRjf~jRiZzgQgcJcIhKdfDGTlIHkSuaoprproDR0LTkgEkVyf0GYGK9~cpp8P3ora8QB3nXzPSx4pKhDQ-IoUAHaLE9DBAva0iEK1hHZyEtjbPp7YN9jhNx1iQGsbprONRwAxnv9ElGqFd5OidRtpk6-KZAqLWDowNBf7ycM~2comQxLSOoFz8zrx3FCk5-zMtNa7VYVd8IkNGcKOaeGAFEYCk5vhNWg__&amp;Key-Pair-Id=APKAIHCXHHQVRTVSFRWQ" /></article>
+<article style=""><h1>✨Tigerwon✨ @TigerwonNYC</h1><p>✨Tigerwon✨ (@TigerwonNYC) from Queens, NY, United States. Host/ Interviewer  - Attend events + covering stories in NYC  and ✈️ for food,fashion , travel  author, startups, IrEnVivo, www.tigerwon.com</p><img src="https://tn.periscope.tv/8DNw8CrpM1xLlQqvF55er4dn_fmqZbX1t-yOIaytilfCB_9uhTgck2zlrF9M1vZymY5H6Kzto5Y9giCvowj-Dw==/chunk_22.jpg?Expires=1784472107&amp;Signature=TjPqqYuFK32SnKGQkCkxbHZZkml5oEMH51o20~3t7q2xz4BXgOY3KFJoBgNQJB71iSGGKTU7tiUrF26EMk4UFC9dFmO8b1fXhsuooXWBR3YmBZ1lSPzeb99MKo~DD~WEEEX64C92A6WcoTOilPtpfLGlNqFLubFKSE0~YiMewu4KMXRilUsKlyirCBouOkxOJnd-ANrH2EfplfAadi6BAj4EjOMsz2GiTmf4~EHGz8s0VYwR6jaaJCpTpZ8awWIQTDTWZfX2ZConJJikWFPIFUR9HeQX-grcXV36~JQ7rxBcLb5SAKf7EmlTY3QQjewcPo8fN~J7tC72TgQst~LvvA__&amp;Key-Pair-Id=APKAIHCXHHQVRTVSFRWQ" /></article>
